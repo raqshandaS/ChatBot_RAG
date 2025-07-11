@@ -33,6 +33,7 @@ This project allows you to upload a Wikipedia-style PDF and ask questions about 
 
 1. Clone the repository:
 git clone https://github.com/your-username/rag-chat-pdf.git
+
 cd rag-chat-pdf
 
 ## Create and activate a virtual environment:
